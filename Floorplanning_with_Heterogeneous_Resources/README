@@ -1,0 +1,6 @@
+How to compile:
+In /Project/ enter the following command:
+$make
+How to execute:
+In /Project/bin enter the following command:
+./project <arch file> <module file> <net file> <output file>
